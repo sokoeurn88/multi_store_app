@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312477300819",
+    "project_id": "multistoreapp-e4d7a",
+    "storage_bucket": "multistoreapp-e4d7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312477300819:android:7acb288148d7e01ede6ea6",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBovKuOz2pxLHXuYu6khlGzp0yM2y8TV-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
